@@ -3,3 +3,6 @@ minsearch
 pandas
 flask
 scikit-learn
+tqdm
+elasticsearch
+streamlit
