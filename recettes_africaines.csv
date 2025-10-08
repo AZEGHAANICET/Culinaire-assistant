@@ -1,0 +1,476 @@
+Recette,Ingrédients,Temps_de_cuisson,Niveau_de_difficulté,Type_de_repas,Régime,Pays,Temps_total,Épices/Saveurs
+Ndolé 1,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 1,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,soixante minutes,"Épicé, Sucré"
+Eru 1,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Cameroun,soixante-quinze minutes,"Épicé, Salé"
+Achu 1,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Cameroun,soixante minutes,Épicé
+Mbongo Tchobi 1,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 1,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Cameroun,trente minutes,Neutre
+Koki 1,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Cameroun,soixante minutes,Épicé
+Bobolo 1,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Cameroun,soixante minutes,Neutre
+Brochettes de viande 1,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Cameroun,quarante-cinq minutes,Épicé
+Banane plantain frit 1,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Cameroun,vingt minutes,Sucré
+Jollof rice 1,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,soixante minutes,Épicé
+Egusi soup 1,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Cameroun,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 1,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 1,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Cameroun,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 1,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,quarante-cinq minutes,"Épicé, Salé"
+Ugali 1,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Cameroun,trente minutes,Neutre
+Supu ya nyama 1,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 1,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Cameroun,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 1,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 2,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 2,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,soixante minutes,"Épicé, Sucré"
+Eru 2,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Nigéria,soixante-quinze minutes,"Épicé, Salé"
+Achu 2,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Nigéria,soixante minutes,Épicé
+Mbongo Tchobi 2,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 2,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Nigéria,trente minutes,Neutre
+Koki 2,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Nigéria,soixante minutes,Épicé
+Bobolo 2,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Nigéria,soixante minutes,Neutre
+Brochettes de viande 2,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Nigéria,quarante-cinq minutes,Épicé
+Banane plantain frit 2,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Nigéria,vingt minutes,Sucré
+Jollof rice 2,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,soixante minutes,Épicé
+Egusi soup 2,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Nigéria,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 2,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 2,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Nigéria,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 2,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,quarante-cinq minutes,"Épicé, Salé"
+Ugali 2,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Nigéria,trente minutes,Neutre
+Supu ya nyama 2,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 2,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Nigéria,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 2,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 3,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 3,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,soixante minutes,"Épicé, Sucré"
+Eru 3,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Sénégal,soixante-quinze minutes,"Épicé, Salé"
+Achu 3,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Sénégal,soixante minutes,Épicé
+Mbongo Tchobi 3,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 3,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Sénégal,trente minutes,Neutre
+Koki 3,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Sénégal,soixante minutes,Épicé
+Bobolo 3,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Sénégal,soixante minutes,Neutre
+Brochettes de viande 3,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Sénégal,quarante-cinq minutes,Épicé
+Banane plantain frit 3,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Sénégal,vingt minutes,Sucré
+Jollof rice 3,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,soixante minutes,Épicé
+Egusi soup 3,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Sénégal,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 3,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 3,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Sénégal,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 3,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,quarante-cinq minutes,"Épicé, Salé"
+Ugali 3,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Sénégal,trente minutes,Neutre
+Supu ya nyama 3,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 3,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Sénégal,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 3,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 4,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 4,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,soixante minutes,"Épicé, Sucré"
+Eru 4,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Ouganda,soixante-quinze minutes,"Épicé, Salé"
+Achu 4,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Ouganda,soixante minutes,Épicé
+Mbongo Tchobi 4,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 4,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Ouganda,trente minutes,Neutre
+Koki 4,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Ouganda,soixante minutes,Épicé
+Bobolo 4,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Ouganda,soixante minutes,Neutre
+Brochettes de viande 4,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Ouganda,quarante-cinq minutes,Épicé
+Banane plantain frit 4,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Ouganda,vingt minutes,Sucré
+Jollof rice 4,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,soixante minutes,Épicé
+Egusi soup 4,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Ouganda,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 4,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 4,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Ouganda,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 4,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,quarante-cinq minutes,"Épicé, Salé"
+Ugali 4,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Ouganda,trente minutes,Neutre
+Supu ya nyama 4,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 4,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Ouganda,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 4,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 5,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Kenya,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 5,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Kenya,soixante minutes,"Épicé, Sucré"
+Eru 5,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Kenya,soixante-quinze minutes,"Épicé, Salé"
+Achu 5,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Kenya,soixante minutes,Épicé
+Mbongo Tchobi 5,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Kenya,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 5,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Kenya,trente minutes,Neutre
+Koki 5,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Kenya,soixante minutes,Épicé
+Bobolo 5,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Kenya,soixante minutes,Neutre
+Brochettes de viande 5,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Kenya,quarante-cinq minutes,Épicé
+Banane plantain frit 5,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Kenya,vingt minutes,Sucré
+Jollof rice 5,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Kenya,soixante minutes,Épicé
+Egusi soup 5,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Kenya,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 5,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Kenya,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 5,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Kenya,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 5,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Kenya,quarante-cinq minutes,"Épicé, Salé"
+Ugali 5,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Kenya,trente minutes,Neutre
+Supu ya nyama 5,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Kenya,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 5,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Kenya,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 5,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Kenya,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 6,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Tanzanie,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 6,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Tanzanie,soixante minutes,"Épicé, Sucré"
+Eru 6,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Tanzanie,soixante-quinze minutes,"Épicé, Salé"
+Achu 6,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Tanzanie,soixante minutes,Épicé
+Mbongo Tchobi 6,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Tanzanie,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 6,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Tanzanie,trente minutes,Neutre
+Koki 6,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Tanzanie,soixante minutes,Épicé
+Bobolo 6,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Tanzanie,soixante minutes,Neutre
+Brochettes de viande 6,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Tanzanie,quarante-cinq minutes,Épicé
+Banane plantain frit 6,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Tanzanie,vingt minutes,Sucré
+Jollof rice 6,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Tanzanie,soixante minutes,Épicé
+Egusi soup 6,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Tanzanie,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 6,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Tanzanie,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 6,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Tanzanie,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 6,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Tanzanie,quarante-cinq minutes,"Épicé, Salé"
+Ugali 6,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Tanzanie,trente minutes,Neutre
+Supu ya nyama 6,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Tanzanie,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 6,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Tanzanie,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 6,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Tanzanie,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 7,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Éthiopie,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 7,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Éthiopie,soixante minutes,"Épicé, Sucré"
+Eru 7,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Éthiopie,soixante-quinze minutes,"Épicé, Salé"
+Achu 7,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Éthiopie,soixante minutes,Épicé
+Mbongo Tchobi 7,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Éthiopie,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 7,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Éthiopie,trente minutes,Neutre
+Koki 7,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Éthiopie,soixante minutes,Épicé
+Bobolo 7,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Éthiopie,soixante minutes,Neutre
+Brochettes de viande 7,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Éthiopie,quarante-cinq minutes,Épicé
+Banane plantain frit 7,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Éthiopie,vingt minutes,Sucré
+Jollof rice 7,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Éthiopie,soixante minutes,Épicé
+Egusi soup 7,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Éthiopie,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 7,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Éthiopie,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 7,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Éthiopie,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 7,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Éthiopie,quarante-cinq minutes,"Épicé, Salé"
+Ugali 7,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Éthiopie,trente minutes,Neutre
+Supu ya nyama 7,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Éthiopie,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 7,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Éthiopie,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 7,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Éthiopie,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 8,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Afrique du Sud,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 8,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Afrique du Sud,soixante minutes,"Épicé, Sucré"
+Eru 8,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Afrique du Sud,soixante-quinze minutes,"Épicé, Salé"
+Achu 8,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Afrique du Sud,soixante minutes,Épicé
+Mbongo Tchobi 8,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Afrique du Sud,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 8,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Afrique du Sud,trente minutes,Neutre
+Koki 8,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Afrique du Sud,soixante minutes,Épicé
+Bobolo 8,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Afrique du Sud,soixante minutes,Neutre
+Brochettes de viande 8,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Afrique du Sud,quarante-cinq minutes,Épicé
+Banane plantain frit 8,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Afrique du Sud,vingt minutes,Sucré
+Jollof rice 8,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Afrique du Sud,soixante minutes,Épicé
+Egusi soup 8,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Afrique du Sud,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 8,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Afrique du Sud,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 8,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Afrique du Sud,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 8,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Afrique du Sud,quarante-cinq minutes,"Épicé, Salé"
+Ugali 8,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Afrique du Sud,trente minutes,Neutre
+Supu ya nyama 8,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Afrique du Sud,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 8,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Afrique du Sud,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 8,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Afrique du Sud,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 9,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Ghana,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 9,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ghana,soixante minutes,"Épicé, Sucré"
+Eru 9,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Ghana,soixante-quinze minutes,"Épicé, Salé"
+Achu 9,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Ghana,soixante minutes,Épicé
+Mbongo Tchobi 9,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Ghana,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 9,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Ghana,trente minutes,Neutre
+Koki 9,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Ghana,soixante minutes,Épicé
+Bobolo 9,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Ghana,soixante minutes,Neutre
+Brochettes de viande 9,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Ghana,quarante-cinq minutes,Épicé
+Banane plantain frit 9,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Ghana,vingt minutes,Sucré
+Jollof rice 9,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ghana,soixante minutes,Épicé
+Egusi soup 9,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Ghana,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 9,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ghana,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 9,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Ghana,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 9,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Ghana,quarante-cinq minutes,"Épicé, Salé"
+Ugali 9,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Ghana,trente minutes,Neutre
+Supu ya nyama 9,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ghana,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 9,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Ghana,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 9,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Ghana,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 10,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Mali,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 10,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Mali,soixante minutes,"Épicé, Sucré"
+Eru 10,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Mali,soixante-quinze minutes,"Épicé, Salé"
+Achu 10,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Mali,soixante minutes,Épicé
+Mbongo Tchobi 10,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Mali,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 10,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Mali,trente minutes,Neutre
+Koki 10,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Mali,soixante minutes,Épicé
+Bobolo 10,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Mali,soixante minutes,Neutre
+Brochettes de viande 10,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Mali,quarante-cinq minutes,Épicé
+Banane plantain frit 10,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Mali,vingt minutes,Sucré
+Jollof rice 10,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Mali,soixante minutes,Épicé
+Egusi soup 10,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Mali,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 10,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Mali,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 10,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Mali,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 10,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Mali,quarante-cinq minutes,"Épicé, Salé"
+Ugali 10,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Mali,trente minutes,Neutre
+Supu ya nyama 10,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Mali,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 10,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Mali,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 10,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Mali,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 11,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 11,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,soixante minutes,"Épicé, Sucré"
+Eru 11,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Cameroun,soixante-quinze minutes,"Épicé, Salé"
+Achu 11,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Cameroun,soixante minutes,Épicé
+Mbongo Tchobi 11,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 11,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Cameroun,trente minutes,Neutre
+Koki 11,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Cameroun,soixante minutes,Épicé
+Bobolo 11,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Cameroun,soixante minutes,Neutre
+Brochettes de viande 11,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Cameroun,quarante-cinq minutes,Épicé
+Banane plantain frit 11,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Cameroun,vingt minutes,Sucré
+Jollof rice 11,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,soixante minutes,Épicé
+Egusi soup 11,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Cameroun,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 11,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 11,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Cameroun,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 11,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,quarante-cinq minutes,"Épicé, Salé"
+Ugali 11,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Cameroun,trente minutes,Neutre
+Supu ya nyama 11,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 11,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Cameroun,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 11,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 12,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 12,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,soixante minutes,"Épicé, Sucré"
+Eru 12,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Nigéria,soixante-quinze minutes,"Épicé, Salé"
+Achu 12,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Nigéria,soixante minutes,Épicé
+Mbongo Tchobi 12,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 12,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Nigéria,trente minutes,Neutre
+Koki 12,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Nigéria,soixante minutes,Épicé
+Bobolo 12,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Nigéria,soixante minutes,Neutre
+Brochettes de viande 12,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Nigéria,quarante-cinq minutes,Épicé
+Banane plantain frit 12,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Nigéria,vingt minutes,Sucré
+Jollof rice 12,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,soixante minutes,Épicé
+Egusi soup 12,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Nigéria,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 12,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 12,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Nigéria,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 12,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,quarante-cinq minutes,"Épicé, Salé"
+Ugali 12,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Nigéria,trente minutes,Neutre
+Supu ya nyama 12,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 12,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Nigéria,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 12,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 13,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 13,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,soixante minutes,"Épicé, Sucré"
+Eru 13,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Sénégal,soixante-quinze minutes,"Épicé, Salé"
+Achu 13,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Sénégal,soixante minutes,Épicé
+Mbongo Tchobi 13,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 13,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Sénégal,trente minutes,Neutre
+Koki 13,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Sénégal,soixante minutes,Épicé
+Bobolo 13,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Sénégal,soixante minutes,Neutre
+Brochettes de viande 13,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Sénégal,quarante-cinq minutes,Épicé
+Banane plantain frit 13,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Sénégal,vingt minutes,Sucré
+Jollof rice 13,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,soixante minutes,Épicé
+Egusi soup 13,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Sénégal,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 13,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 13,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Sénégal,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 13,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,quarante-cinq minutes,"Épicé, Salé"
+Ugali 13,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Sénégal,trente minutes,Neutre
+Supu ya nyama 13,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 13,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Sénégal,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 13,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 14,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 14,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,soixante minutes,"Épicé, Sucré"
+Eru 14,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Ouganda,soixante-quinze minutes,"Épicé, Salé"
+Achu 14,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Ouganda,soixante minutes,Épicé
+Mbongo Tchobi 14,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 14,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Ouganda,trente minutes,Neutre
+Koki 14,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Ouganda,soixante minutes,Épicé
+Bobolo 14,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Ouganda,soixante minutes,Neutre
+Brochettes de viande 14,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Ouganda,quarante-cinq minutes,Épicé
+Banane plantain frit 14,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Ouganda,vingt minutes,Sucré
+Jollof rice 14,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,soixante minutes,Épicé
+Egusi soup 14,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Ouganda,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 14,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 14,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Ouganda,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 14,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,quarante-cinq minutes,"Épicé, Salé"
+Ugali 14,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Ouganda,trente minutes,Neutre
+Supu ya nyama 14,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 14,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Ouganda,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 14,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 15,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Kenya,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 15,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Kenya,soixante minutes,"Épicé, Sucré"
+Eru 15,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Kenya,soixante-quinze minutes,"Épicé, Salé"
+Achu 15,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Kenya,soixante minutes,Épicé
+Mbongo Tchobi 15,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Kenya,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 15,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Kenya,trente minutes,Neutre
+Koki 15,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Kenya,soixante minutes,Épicé
+Bobolo 15,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Kenya,soixante minutes,Neutre
+Brochettes de viande 15,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Kenya,quarante-cinq minutes,Épicé
+Banane plantain frit 15,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Kenya,vingt minutes,Sucré
+Jollof rice 15,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Kenya,soixante minutes,Épicé
+Egusi soup 15,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Kenya,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 15,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Kenya,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 15,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Kenya,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 15,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Kenya,quarante-cinq minutes,"Épicé, Salé"
+Ugali 15,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Kenya,trente minutes,Neutre
+Supu ya nyama 15,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Kenya,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 15,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Kenya,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 15,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Kenya,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 16,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Tanzanie,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 16,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Tanzanie,soixante minutes,"Épicé, Sucré"
+Eru 16,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Tanzanie,soixante-quinze minutes,"Épicé, Salé"
+Achu 16,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Tanzanie,soixante minutes,Épicé
+Mbongo Tchobi 16,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Tanzanie,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 16,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Tanzanie,trente minutes,Neutre
+Koki 16,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Tanzanie,soixante minutes,Épicé
+Bobolo 16,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Tanzanie,soixante minutes,Neutre
+Brochettes de viande 16,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Tanzanie,quarante-cinq minutes,Épicé
+Banane plantain frit 16,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Tanzanie,vingt minutes,Sucré
+Jollof rice 16,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Tanzanie,soixante minutes,Épicé
+Egusi soup 16,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Tanzanie,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 16,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Tanzanie,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 16,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Tanzanie,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 16,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Tanzanie,quarante-cinq minutes,"Épicé, Salé"
+Ugali 16,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Tanzanie,trente minutes,Neutre
+Supu ya nyama 16,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Tanzanie,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 16,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Tanzanie,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 16,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Tanzanie,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 17,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Éthiopie,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 17,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Éthiopie,soixante minutes,"Épicé, Sucré"
+Eru 17,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Éthiopie,soixante-quinze minutes,"Épicé, Salé"
+Achu 17,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Éthiopie,soixante minutes,Épicé
+Mbongo Tchobi 17,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Éthiopie,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 17,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Éthiopie,trente minutes,Neutre
+Koki 17,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Éthiopie,soixante minutes,Épicé
+Bobolo 17,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Éthiopie,soixante minutes,Neutre
+Brochettes de viande 17,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Éthiopie,quarante-cinq minutes,Épicé
+Banane plantain frit 17,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Éthiopie,vingt minutes,Sucré
+Jollof rice 17,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Éthiopie,soixante minutes,Épicé
+Egusi soup 17,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Éthiopie,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 17,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Éthiopie,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 17,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Éthiopie,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 17,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Éthiopie,quarante-cinq minutes,"Épicé, Salé"
+Ugali 17,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Éthiopie,trente minutes,Neutre
+Supu ya nyama 17,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Éthiopie,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 17,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Éthiopie,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 17,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Éthiopie,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 18,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Afrique du Sud,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 18,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Afrique du Sud,soixante minutes,"Épicé, Sucré"
+Eru 18,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Afrique du Sud,soixante-quinze minutes,"Épicé, Salé"
+Achu 18,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Afrique du Sud,soixante minutes,Épicé
+Mbongo Tchobi 18,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Afrique du Sud,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 18,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Afrique du Sud,trente minutes,Neutre
+Koki 18,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Afrique du Sud,soixante minutes,Épicé
+Bobolo 18,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Afrique du Sud,soixante minutes,Neutre
+Brochettes de viande 18,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Afrique du Sud,quarante-cinq minutes,Épicé
+Banane plantain frit 18,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Afrique du Sud,vingt minutes,Sucré
+Jollof rice 18,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Afrique du Sud,soixante minutes,Épicé
+Egusi soup 18,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Afrique du Sud,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 18,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Afrique du Sud,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 18,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Afrique du Sud,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 18,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Afrique du Sud,quarante-cinq minutes,"Épicé, Salé"
+Ugali 18,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Afrique du Sud,trente minutes,Neutre
+Supu ya nyama 18,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Afrique du Sud,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 18,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Afrique du Sud,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 18,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Afrique du Sud,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 19,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Ghana,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 19,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ghana,soixante minutes,"Épicé, Sucré"
+Eru 19,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Ghana,soixante-quinze minutes,"Épicé, Salé"
+Achu 19,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Ghana,soixante minutes,Épicé
+Mbongo Tchobi 19,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Ghana,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 19,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Ghana,trente minutes,Neutre
+Koki 19,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Ghana,soixante minutes,Épicé
+Bobolo 19,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Ghana,soixante minutes,Neutre
+Brochettes de viande 19,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Ghana,quarante-cinq minutes,Épicé
+Banane plantain frit 19,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Ghana,vingt minutes,Sucré
+Jollof rice 19,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ghana,soixante minutes,Épicé
+Egusi soup 19,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Ghana,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 19,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ghana,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 19,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Ghana,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 19,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Ghana,quarante-cinq minutes,"Épicé, Salé"
+Ugali 19,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Ghana,trente minutes,Neutre
+Supu ya nyama 19,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ghana,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 19,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Ghana,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 19,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Ghana,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 20,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Mali,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 20,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Mali,soixante minutes,"Épicé, Sucré"
+Eru 20,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Mali,soixante-quinze minutes,"Épicé, Salé"
+Achu 20,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Mali,soixante minutes,Épicé
+Mbongo Tchobi 20,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Mali,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 20,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Mali,trente minutes,Neutre
+Koki 20,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Mali,soixante minutes,Épicé
+Bobolo 20,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Mali,soixante minutes,Neutre
+Brochettes de viande 20,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Mali,quarante-cinq minutes,Épicé
+Banane plantain frit 20,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Mali,vingt minutes,Sucré
+Jollof rice 20,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Mali,soixante minutes,Épicé
+Egusi soup 20,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Mali,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 20,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Mali,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 20,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Mali,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 20,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Mali,quarante-cinq minutes,"Épicé, Salé"
+Ugali 20,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Mali,trente minutes,Neutre
+Supu ya nyama 20,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Mali,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 20,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Mali,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 20,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Mali,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 21,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 21,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,soixante minutes,"Épicé, Sucré"
+Eru 21,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Cameroun,soixante-quinze minutes,"Épicé, Salé"
+Achu 21,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Cameroun,soixante minutes,Épicé
+Mbongo Tchobi 21,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 21,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Cameroun,trente minutes,Neutre
+Koki 21,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Cameroun,soixante minutes,Épicé
+Bobolo 21,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Cameroun,soixante minutes,Neutre
+Brochettes de viande 21,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Cameroun,quarante-cinq minutes,Épicé
+Banane plantain frit 21,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Cameroun,vingt minutes,Sucré
+Jollof rice 21,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,soixante minutes,Épicé
+Egusi soup 21,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Cameroun,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 21,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 21,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Cameroun,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 21,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,quarante-cinq minutes,"Épicé, Salé"
+Ugali 21,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Cameroun,trente minutes,Neutre
+Supu ya nyama 21,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 21,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Cameroun,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 21,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Cameroun,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 22,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 22,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,soixante minutes,"Épicé, Sucré"
+Eru 22,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Nigéria,soixante-quinze minutes,"Épicé, Salé"
+Achu 22,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Nigéria,soixante minutes,Épicé
+Mbongo Tchobi 22,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 22,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Nigéria,trente minutes,Neutre
+Koki 22,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Nigéria,soixante minutes,Épicé
+Bobolo 22,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Nigéria,soixante minutes,Neutre
+Brochettes de viande 22,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Nigéria,quarante-cinq minutes,Épicé
+Banane plantain frit 22,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Nigéria,vingt minutes,Sucré
+Jollof rice 22,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,soixante minutes,Épicé
+Egusi soup 22,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Nigéria,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 22,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 22,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Nigéria,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 22,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,quarante-cinq minutes,"Épicé, Salé"
+Ugali 22,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Nigéria,trente minutes,Neutre
+Supu ya nyama 22,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 22,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Nigéria,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 22,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Nigéria,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 23,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 23,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,soixante minutes,"Épicé, Sucré"
+Eru 23,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Sénégal,soixante-quinze minutes,"Épicé, Salé"
+Achu 23,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Sénégal,soixante minutes,Épicé
+Mbongo Tchobi 23,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 23,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Sénégal,trente minutes,Neutre
+Koki 23,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Sénégal,soixante minutes,Épicé
+Bobolo 23,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Sénégal,soixante minutes,Neutre
+Brochettes de viande 23,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Sénégal,quarante-cinq minutes,Épicé
+Banane plantain frit 23,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Sénégal,vingt minutes,Sucré
+Jollof rice 23,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,soixante minutes,Épicé
+Egusi soup 23,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Sénégal,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 23,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 23,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Sénégal,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 23,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,quarante-cinq minutes,"Épicé, Salé"
+Ugali 23,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Sénégal,trente minutes,Neutre
+Supu ya nyama 23,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 23,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Sénégal,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 23,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Sénégal,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 24,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 24,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,soixante minutes,"Épicé, Sucré"
+Eru 24,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Ouganda,soixante-quinze minutes,"Épicé, Salé"
+Achu 24,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Ouganda,soixante minutes,Épicé
+Mbongo Tchobi 24,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 24,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Ouganda,trente minutes,Neutre
+Koki 24,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Ouganda,soixante minutes,Épicé
+Bobolo 24,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Ouganda,soixante minutes,Neutre
+Brochettes de viande 24,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Ouganda,quarante-cinq minutes,Épicé
+Banane plantain frit 24,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Ouganda,vingt minutes,Sucré
+Jollof rice 24,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,soixante minutes,Épicé
+Egusi soup 24,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Ouganda,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 24,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 24,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Ouganda,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 24,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,quarante-cinq minutes,"Épicé, Salé"
+Ugali 24,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Ouganda,trente minutes,Neutre
+Supu ya nyama 24,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 24,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Ouganda,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 24,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Ouganda,quarante-cinq minutes,"Épicé, Salé"
+Ndolé 25,"Feuilles de ndolé, arachides, viande ou poisson, huile, épices",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Kenya,quatre-vingt-dix minutes,"Épicé, Amer"
+Poulet DG 25,"Poulet, plantain, huile, oignon, tomate, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Kenya,soixante minutes,"Épicé, Sucré"
+Eru 25,"Feuilles d'eru, waterleaf, poisson fumé, viande, huile de palme",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Kenya,soixante-quinze minutes,"Épicé, Salé"
+Achu 25,"Ignames, piment, huile, bouillon, épices",une heure,Difficile,Déjeuner/Dîner,Omnivore,Kenya,soixante minutes,Épicé
+Mbongo Tchobi 25,"Poisson, pâte d'arachide, épices, huile de palme",une heure trente minutes,Moyen,Déjeuner/Dîner,Omnivore,Kenya,quatre-vingt-dix minutes,"Épicé, Salé"
+Fufu corn 25,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Kenya,trente minutes,Neutre
+Koki 25,"Haricots rouges, feuilles de manioc, huile de palme, épices",une heure,Moyen,Déjeuner/Dîner,Végétarien,Kenya,soixante minutes,Épicé
+Bobolo 25,"Plantains fermentés, feuilles de bananier",une heure,Moyen,Déjeuner/Dîner,Végétarien,Kenya,soixante minutes,Neutre
+Brochettes de viande 25,"Viande de bœuf, épices, huile",quarante-cinq minutes,Facile,Snack/Déjeuner,Omnivore,Kenya,quarante-cinq minutes,Épicé
+Banane plantain frit 25,"Bananes plantains mûres, huile, sel",vingt minutes,Facile,Snack/Déjeuner,Végétarien,Kenya,vingt minutes,Sucré
+Jollof rice 25,"Riz, tomates, poivrons, oignons, huile, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Kenya,soixante minutes,Épicé
+Egusi soup 25,"Graines de melon, viande, poisson, feuilles vertes, huile",une heure quinze minutes,Difficile,Déjeuner/Dîner,Omnivore,Kenya,soixante-quinze minutes,"Épicé, Salé"
+Couscous sénégalais 25,"Semoule de mil, légumes, viande, épices",une heure,Moyen,Déjeuner/Dîner,Omnivore,Kenya,soixante minutes,"Épicé, Aromatique"
+Thieboudienne 25,"Poisson, riz, légumes, huile, épices",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Kenya,quatre-vingt-dix minutes,"Épicé, Salé"
+Matoke 25,"Bananes plantains vertes, huile, oignons, tomates, viande",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Kenya,quarante-cinq minutes,"Épicé, Salé"
+Ugali 25,"Farine de maïs, eau, sel",trente minutes,Facile,Déjeuner/Dîner,Végétarien,Kenya,trente minutes,Neutre
+Supu ya nyama 25,"Viande, légumes, épices, huile",une heure,Moyen,Déjeuner/Dîner,Omnivore,Kenya,soixante minutes,"Épicé, Salé"
+Injera avec Doro Wat 25,"Farine de teff, poulet, épices, huile",une heure trente minutes,Difficile,Déjeuner/Dîner,Omnivore,Kenya,quatre-vingt-dix minutes,"Épicé, Aromatique"
+Bunny Chow 25,"Pain, curry de viande, légumes, épices",quarante-cinq minutes,Moyen,Déjeuner/Dîner,Omnivore,Kenya,quarante-cinq minutes,"Épicé, Salé"
